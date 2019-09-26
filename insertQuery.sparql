@@ -1,0 +1,123 @@
+prefix owl: <http://www.w3.org/2002/07/owl#> 
+prefix ns0: <http://purl.uniprot.org/core/> 
+prefix xsd: <http://www.w3.org/2001/XMLSchema#> 
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+
+insert {
+
+<http://purl.uniprot.org/uniprot/>
+  a owl:Ontology ;
+  owl:imports <http://purl.uniprot.org/core/> .
+
+
+<http://purl.uniprot.org/uniprot/P01892>
+  a <http://purl.uniprot.org/core/Protein> ;
+  ns0:mnemonic "1A02_HUMAN" ;
+  ns0:annotation <http://purl.uniprot.org/uniprot/P01892#SIP7277250E490EAA37>, <http://purl.uniprot.org/uniprot/P01892#SIPE3B4D7CEFA84536D>, <http://purl.uniprot.org/uniprot/P01892#SIPDCF949FCDD9AA3AF>, <http://purl.uniprot.org/uniprot/P01892#SIP16C7C88B970FBDC1>, <http://purl.uniprot.org/uniprot/P01892#SIPB7F5D16BC1E0533B>, <http://purl.uniprot.org/uniprot/P01892#SIP773A1416862B6D17>, <http://purl.uniprot.org/uniprot/P01892#SIPAB5599888D0AA53D>, <http://purl.uniprot.org/uniprot/P01892#SIP7745340504B87A3F>, <http://purl.uniprot.org/uniprot/P01892#SIP4734E66A9DCD498A>, <http://purl.uniprot.org/uniprot/P01892#SIPE48B09BFA1B0839C>, <http://purl.uniprot.org/uniprot/P01892#SIP9CB5CF6E1871ACB4>, <http://purl.uniprot.org/uniprot/P01892#SIP20B53E5986EDF594>, <http://purl.uniprot.org/uniprot/P01892#SIP95A9A316BDC53C04>, <http://purl.uniprot.org/uniprot/P01892#SIP6E779673A30F5DB3>, <http://purl.uniprot.org/uniprot/P01892#SIPF8F8C3F5C562D069>, <http://purl.uniprot.org/uniprot/P01892#SIPED024A1B5413A986>, <http://purl.uniprot.org/uniprot/P01892#SIP48F5F1BD9E58188D>, <http://purl.uniprot.org/uniprot/P01892#SIPD46AB121B62BDB50>, <http://purl.uniprot.org/uniprot/P01892#SIPD2B9AA0CB3C6F7A4>, <http://purl.uniprot.org/uniprot/P01892#SIP31BF177191748618>, <http://purl.uniprot.org/uniprot/P01892#SIPE4807B7620127A2F>, <http://purl.uniprot.org/uniprot/P01892#SIP7E5A740BE3BF0996>, <http://purl.uniprot.org/uniprot/P01892#SIPC59D2D2D998848F7>, <http://purl.uniprot.org/uniprot/P01892#SIP0ECC3EE1EDB23199>, <http://purl.uniprot.org/uniprot/P01892#SIPAA9D072D9CA0FC44>, <http://purl.uniprot.org/uniprot/P01892#SIP158E72183CF918F6>, <http://purl.uniprot.org/uniprot/P01892#SIPC9C29387E3C03739>, <http://purl.uniprot.org/uniprot/P01892#SIP327AC9F077B96B47>, <http://purl.uniprot.org/uniprot/P01892#SIP5332F4F165FED25B>, <http://purl.uniprot.org/uniprot/P01892#SIPC60DA71ACD759588>, <http://purl.uniprot.org/uniprot/P01892#SIP89EB8A0B3D6BE793>, <http://purl.uniprot.org/uniprot/P01892#SIPBB0622B3527B6C37>, <http://purl.uniprot.org/uniprot/P01892#SIP3EFB304A2A58A634>, <http://purl.uniprot.org/uniprot/P01892#SIP5886F1DBD34F62AD>, <http://purl.uniprot.org/uniprot/P01892#SIP777597F518E98026>, <http://purl.uniprot.org/uniprot/P01892#SIPC364DFEE9303F377>, <http://purl.uniprot.org/uniprot/P01892#SIP824B3BE74EA8F8EF>, <http://purl.uniprot.org/uniprot/P01892#SIPF4A6242632662062>, <http://purl.uniprot.org/uniprot/P01892#SIP18007C3AB2BE02FD>, <http://purl.uniprot.org/uniprot/P01892#SIP7912455BC718068F> .
+
+
+<http://purl.uniprot.org/uniprot/#_kb.P01892_up.annotation_E723006D771CE9FB>
+  a rdf:Statement ;
+  rdf:subject <http://purl.uniprot.org/uniprot/P01892> ;
+  rdf:predicate ns0:annotation ;
+  rdf:object <http://purl.uniprot.org/uniprot/P01892#SIP7277250E490EAA37> .
+
+<http://purl.uniprot.org/uniprot/#_kb.P01892_up.annotation_E539D8D3B70E93BD>
+  a rdf:Statement ;
+  rdf:subject <http://purl.uniprot.org/uniprot/P01892> ;
+  rdf:predicate ns0:annotation ;
+  rdf:object <http://purl.uniprot.org/uniprot/P01892#SIPE3B4D7CEFA84536D> .
+
+
+<http://purl.uniprot.org/uniprot/#_kb.P01892_up.annotation_9D5B864ED4E62F41>
+  a rdf:Statement ;
+  rdf:subject <http://purl.uniprot.org/uniprot/P01892> ;
+  rdf:predicate ns0:annotation ;
+  rdf:object <http://purl.uniprot.org/uniprot/P01892#SIPDCF949FCDD9AA3AF> .
+
+<http://purl.uniprot.org/uniprot/#_kb.P01892_up.annotation_15176AC1D515086E>
+  a rdf:Statement ;
+  rdf:subject <http://purl.uniprot.org/uniprot/P01892> ;
+  rdf:predicate ns0:annotation ;
+  rdf:object <http://purl.uniprot.org/uniprot/P01892#SIP16C7C88B970FBDC1> .
+
+<http://purl.uniprot.org/uniprot/#_kb.P01892_up.annotation_FFE44AA0244A295B>
+  a rdf:Statement ;
+  rdf:subject <http://purl.uniprot.org/uniprot/P01892> ;
+  rdf:predicate ns0:annotation ;
+  rdf:object <http://purl.uniprot.org/uniprot/P01892#SIPB7F5D16BC1E0533B> .
+
+
+<http://purl.uniprot.org/uniprot/#_kb.P01892_up.annotation_6A715E24D71A6A68>
+  a rdf:Statement ;
+  rdf:subject <http://purl.uniprot.org/uniprot/P01892> ;
+  rdf:predicate ns0:annotation ;
+  rdf:object <http://purl.uniprot.org/uniprot/P01892#SIP773A1416862B6D17> .
+
+<http://purl.uniprot.org/uniprot/#_kb.P01892_up.annotation_188E96F63A17C700>
+  a rdf:Statement ;
+  rdf:subject <http://purl.uniprot.org/uniprot/P01892> ;
+  rdf:predicate ns0:annotation ;
+  rdf:object <http://purl.uniprot.org/uniprot/P01892#SIPAB5599888D0AA53D> .
+
+<http://purl.uniprot.org/uniprot/#_kb.P01892_up.annotation_FDFB0E06024E9DB5>
+  a rdf:Statement ;
+  rdf:subject <http://purl.uniprot.org/uniprot/P01892> ;
+  rdf:predicate ns0:annotation ;
+  rdf:object <http://purl.uniprot.org/uniprot/P01892#SIP7745340504B87A3F> .
+
+<http://purl.uniprot.org/uniprot/#_kb.P01892_up.annotation_2C498C1818471ABB>
+  a rdf:Statement ;
+  rdf:subject <http://purl.uniprot.org/uniprot/P01892> ;
+  rdf:predicate ns0:annotation ;
+  rdf:object <http://purl.uniprot.org/uniprot/P01892#SIP4734E66A9DCD498A> .
+
+<http://purl.uniprot.org/uniprot/#_kb.P01892_up.annotation_9BFA228571064025>
+  a rdf:Statement ;
+  rdf:subject <http://purl.uniprot.org/uniprot/P01892> ;
+  rdf:predicate ns0:annotation ;
+  rdf:object <http://purl.uniprot.org/uniprot/P01892#SIPE48B09BFA1B0839C> .
+
+<http://purl.uniprot.org/uniprot/#_kb.P01892_up.annotation_CA177B9EB3117825>
+  a rdf:Statement ;
+  rdf:subject <http://purl.uniprot.org/uniprot/P01892> ;
+  rdf:predicate ns0:annotation ;
+  rdf:object <http://purl.uniprot.org/uniprot/P01892#SIP9CB5CF6E1871ACB4> .
+
+<http://purl.uniprot.org/uniprot/#_kb.P01892_up.annotation_3C4DD67EF7B68670>
+  a rdf:Statement ;
+  rdf:subject <http://purl.uniprot.org/uniprot/P01892> ;
+  rdf:predicate ns0:annotation ;
+  rdf:object <http://purl.uniprot.org/uniprot/P01892#SIP20B53E5986EDF594> .
+
+<http://purl.uniprot.org/uniprot/#_kb.P01892_up.annotation_9CEC04525880A534>
+  a rdf:Statement ;
+  rdf:subject <http://purl.uniprot.org/uniprot/P01892> ;
+  rdf:predicate ns0:annotation ;
+  rdf:object <http://purl.uniprot.org/uniprot/P01892#SIP95A9A316BDC53C04> .
+
+<http://purl.uniprot.org/uniprot/#_kb.P01892_up.annotation_C6CD98E40C273876>
+  a rdf:Statement ;
+  rdf:subject <http://purl.uniprot.org/uniprot/P01892> ;
+  rdf:predicate ns0:annotation ;
+  rdf:object <http://purl.uniprot.org/uniprot/P01892#SIP6E779673A30F5DB3> .
+
+<http://purl.uniprot.org/uniprot/#_kb.P01892_up.annotation_37AA66F5F0A515B7>
+  a rdf:Statement ;
+  rdf:subject <http://purl.uniprot.org/uniprot/P01892> ;
+  rdf:predicate ns0:annotation ;
+  rdf:object <http://purl.uniprot.org/uniprot/P01892#SIPF8F8C3F5C562D069> .
+
+<http://purl.uniprot.org/uniprot/#_kb.P01892_up.annotation_B969539BFC6B08F0>
+  a rdf:Statement ;
+  rdf:subject <http://purl.uniprot.org/uniprot/P01892> ;
+  rdf:predicate ns0:annotation ;
+  rdf:object <http://purl.uniprot.org/uniprot/P01892#SIPED024A1B5413A986> .
+
+<http://purl.uniprot.org/uniprot/#_kb.P01892_up.annotation_B8C6372F091C9086>
+  a rdf:Statement ;
+  rdf:subject <http://purl.uniprot.org/uniprot/P01892> ;
+  rdf:predicate ns0:annotation ;
+  rdf:object <http://purl.uniprot.org/uniprot/P01892#SIP48F5F1BD9E58188D> .
+
+} where {}

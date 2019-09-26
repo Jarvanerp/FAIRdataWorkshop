@@ -1,0 +1,60 @@
+
+		Wed Sep 25 2019
+13:21:59 OpenLink Virtuoso Universal Server
+13:21:59 Version 07.20.3229-pthreads for Linux as of Aug 21 2019
+13:21:59 uses parts of OpenSSL, PCRE, Html Tidy
+13:21:59 SQL Optimizer enabled (max 1000 layouts)
+13:21:59 Compiler unit is timed at 0.000303 msec
+13:22:02 Checkpoint started
+13:22:02 Roll forward started
+13:22:02 Roll forward complete
+13:22:02 Checkpoint started
+13:22:02 Checkpoint finished, log reused
+13:22:02 Checkpoint started
+13:22:02 Checkpoint finished, log reused
+13:22:03 Checkpoint started
+13:22:03 Checkpoint finished, log reused
+13:22:03 Checkpoint started
+13:22:03 Checkpoint finished, log reused
+13:22:03 Checkpoint started
+13:22:03 Checkpoint finished, log reused
+13:22:03 PL LOG: Installing Virtuoso Conductor version 1.00.8783 (DAV)
+13:22:03 PL LOG: Installing with dependencies Virtuoso Conductor version 1.00.8783/2019-08-21 12:21 (DAV)
+13:22:03 Checkpoint started
+13:22:03 Checkpoint finished, log reused
+13:22:06 Checkpoint started
+13:22:06 Checkpoint finished, log reused
+13:22:06 PL LOG: Installation with dependencies complete
+13:22:06 Checkpoint started
+13:22:06 Checkpoint finished, log reused
+13:22:06 HTTP/WebDAV server online at 27015
+13:22:06 Server online at 1111 (pid 19)
+13:22:06 Server received signal 15
+13:22:06 Initiating quick shutdown
+13:22:06 Server shutdown complete
+
+		Wed Sep 25 2019
+13:22:07 OpenLink Virtuoso Universal Server
+13:22:07 Version 07.20.3229-pthreads for Linux as of Aug 21 2019
+13:22:07 uses parts of OpenSSL, PCRE, Html Tidy
+13:22:07 Database version 3126
+13:22:07 SQL Optimizer enabled (max 1000 layouts)
+13:22:08 Compiler unit is timed at 0.000100 msec
+13:22:08 Roll forward started
+13:22:08 Roll forward complete
+13:22:09 Checkpoint started
+13:22:09 Checkpoint finished, log reused
+13:22:09 HTTP/WebDAV server online at 8890
+13:22:09 Server online at 1111 (pid 1)
+14:22:10 Checkpoint started
+14:22:10 Checkpoint finished, log reused
+15:22:11 Checkpoint started
+15:22:11 Checkpoint finished, log reused
+16:23:14 Checkpoint started
+16:23:14 Checkpoint finished, log reused
+
+		Thu Sep 26 2019
+04:20:18 Checkpoint started
+04:20:18 Checkpoint finished, log reused
+08:22:46 Checkpoint started
+08:22:46 Checkpoint finished, log reused
